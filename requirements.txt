@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+feedparser
+beautifulsoup4
+python-dotenv
+schedule
+pytz
+supabase
+langchain
+openai
+python-dotenv
+langchain-mistralai

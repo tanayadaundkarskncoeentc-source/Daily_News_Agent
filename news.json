@@ -1,0 +1,82 @@
+[
+  {
+    "source": "VentureBeat",
+    "title": "Why open-source AI became an American national priority",
+    "link": "https://venturebeat.com/ai/why-open-source-ai-became-an-american-national-priority/",
+    "published": "Fri, 01 Aug 2025",
+    "summary": "To reflect democratic principles, AI must be built in the open. If the U.S. wants to lead the AI race, it must lead the open-source AI race.",
+    "image": ""
+  },
+  {
+    "source": "VentureBeat",
+    "title": "Google releases Olympiad medal-winning Gemini 2.5 ‘Deep Think’ AI publicly — but there’s a catch…",
+    "link": "https://venturebeat.com/ai/google-releases-olympiad-medal-winning-gemini-2-5-deep-think-ai-publicly-but-theres-a-catch/",
+    "published": "Fri, 01 Aug 2025",
+    "summary": "The Gemini 2.5 Deep Think released to users is not that same competition model, rather, a lower performing but apparently faster version.",
+    "image": ""
+  },
+  {
+    "source": "TechCrunch",
+    "title": "From Meta’s massive offers to Anthropic’s massive valuation, does AI have a ceiling?",
+    "link": "https://techcrunch.com/podcast/from-metas-massive-offers-to-anthropics-massive-valuation-does-ai-have-a-ceiling/",
+    "published": "Fri, 01 Aug 2025",
+    "summary": "Meta is still going all-in on the AI talent war, with Mark Zuckerberg reportedly reaching out to top recruits himself, throwing around jaw-dropping compensation packages that top $1 billion over multiple years. And Meta’s latest target? Mira Murati’s new startup, Thinking Machines Lab. It’s a bold play in an already overheated market. While Zuck eyes […]",
+    "image": ""
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Fundamental Research Labs nabs $30M+ to build AI agents across verticals",
+    "link": "https://techcrunch.com/2025/08/01/fundamental-research-labs-nabs-33-million-from-prosus-to-build-ai-agents-for-multiple-verticals/",
+    "published": "Fri, 01 Aug 2025",
+    "summary": "Fundamental Research Labs is releasing multiple AI products related to gaming and productivity.",
+    "image": ""
+  },
+  {
+    "source": "TechCrunch",
+    "title": "OpenAI reportedly raises $8.3B at $300B valuation",
+    "link": "https://techcrunch.com/2025/08/01/openai-reportedly-raises-8-3b-at-300b-valuation/",
+    "published": "Fri, 01 Aug 2025",
+    "summary": "The oversubscribed round came months ahead of schedule, and is part of OpenAI's strategy to raise $40 billion.",
+    "image": ""
+  },
+  {
+    "source": "TechCrunch",
+    "title": "The new face of defense tech — Ethan Thornton of Mach Industries — takes the AI Stage at TechCrunch Disrupt 2025",
+    "link": "https://techcrunch.com/2025/08/01/the-new-face-of-defense-tech-takes-the-ai-stage-at-techcrunch-disrupt-2025/",
+    "published": "Fri, 01 Aug 2025",
+    "summary": "TechCrunch Disrupt 2025 to host Ethan Thornton.",
+    "image": ""
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Vast Data in talks with Alphabet’s CapitalG, Nvidia to fund round at up to $30B valuation",
+    "link": "https://techcrunch.com/2025/08/01/vast-data-in-talks-with-alphabets-capitalg-nvidia-to-fund-round-at-up-to-30b-valuation/",
+    "published": "Fri, 01 Aug 2025",
+    "summary": "The round could make the AI data storage company one of the most valuable in the world.",
+    "image": ""
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Google rolls out Gemini Deep Think AI, a reasoning model that tests multiple ideas in parallel",
+    "link": "https://techcrunch.com/2025/08/01/google-rolls-out-gemini-deep-think-ai-a-reasoning-model-that-tests-multiple-ideas-in-parallel/",
+    "published": "Fri, 01 Aug 2025",
+    "summary": "Google released its first publicly available \"multi-agent\" AI system, which uses more computational resources, but produces better answers.",
+    "image": ""
+  },
+  {
+    "source": "AWS ML Blog",
+    "title": "Introducing the Amazon Bedrock AgentCore Code Interpreter",
+    "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-agentcore-code-interpreter/",
+    "published": "Fri, 01 Aug 2025",
+    "summary": "In this post, we introduce the Amazon Bedrock AgentCore Code Interpreter, a fully managed service that enables AI agents to securely execute code in isolated sandbox environments. We discuss how the AgentCore Code Interpreter helps solve challenges around security, scalability, and infrastructure management when deploying AI agents that need computational capabilities.",
+    "image": ""
+  },
+  {
+    "source": "AWS ML Blog",
+    "title": "Observing and evaluating AI agentic workflows with Strands Agents SDK and Arize AX",
+    "link": "https://aws.amazon.com/blogs/machine-learning/observing-and-evaluating-ai-agentic-workflows-with-strands-agents-sdk-and-arize-ax/",
+    "published": "Fri, 01 Aug 2025",
+    "summary": "In this post, we present how the Arize AX service can trace and evaluate AI agent tasks initiated through Strands Agents, helping validate the correctness and trustworthiness of agentic workflows.",
+    "image": ""
+  }
+]
