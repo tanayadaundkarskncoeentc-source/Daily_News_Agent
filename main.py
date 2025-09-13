@@ -46,7 +46,7 @@ def job():
 
 # ✅ Scheduler runner in background thread
 def run_scheduler():
-    schedule.every().day.at("01:30").do(job)  # Change to your desired time (24-hour format, IST)  1:30 UTC = 7:00 AM
+    schedule.every().day.at("06:50").do(job)  # Change to your desired time (24-hour format, IST)  1:30 UTC = 7:00 AM
     while True:
         schedule.run_pending()
         time.sleep(60)
