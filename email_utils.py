@@ -13,11 +13,11 @@ def send_email(news_items):
 
     recipients = [
         "tanayadaundkar31@gmail.com",
-        "ketan.mane@gurukulcode.com",
-        "rohini.satale@gurukulcode.com",
-        "balaji.wagh@gurukulcode.com",
-        "ashish.bakhade@gurukulcode.com",
-        "rohinimahatme3@gmail.com"
+        # "ketan.mane@gurukulcode.com",
+        # "rohini.satale@gurukulcode.com",
+        # "balaji.wagh@gurukulcode.com",
+        # "ashish.bakhade@gurukulcode.com",
+        # "rohinimahatme3@gmail.com"
     ]
 
     subject = "📰 AI News"
